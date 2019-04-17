@@ -44,7 +44,7 @@ class CategoryVC: SwipeTableVC {
             }
         }
         alert.addTextField { (alertTextField) in
-            alertTextField.placeholder = "create new task"
+            alertTextField.placeholder = "create new category"
             textField = alertTextField
         }
         alert.addAction(action)
