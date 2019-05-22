@@ -1,0 +1,6 @@
+framework module Pods_gotta {
+  umbrella header "Pods-gotta-umbrella.h"
+
+  export *
+  module * { export * }
+}
